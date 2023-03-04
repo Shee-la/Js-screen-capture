@@ -1,0 +1,14 @@
+body{
+background-color: skyblue;
+}
+button{
+    position: absolute;
+  right: 45%;
+  top: 50%;
+padding: 30px;
+border-radius: 10px;
+background-color: white;
+font-size: larger;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: black;
+}
